@@ -5,7 +5,6 @@
 adds file to staging area
 
 ```sh
-git add filename
 ```
 
 ## git commit
