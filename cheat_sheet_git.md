@@ -1,7 +1,12 @@
 # Basic git commands
 
 ## git add
+
 adds file to staging area
+´´´sh
+git add filename
+´´´
+
 ## git commit
 to commit staged changes in repository
 ## git push
