@@ -3,9 +3,10 @@
 ## git add
 
 adds file to staging area
-´´´sh
+
+```sh
 git add filename
-´´´
+```
 
 ## git commit
 to commit staged changes in repository
